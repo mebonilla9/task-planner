@@ -11,6 +11,9 @@ import android.view.Menu
 import android.view.MenuItem
 import dev.manuel.taskplanner.databinding.ActivityMainBinding
 
+/**
+ * @author Manuel Ernesto Bonilla Muñoz
+ */
 class MainActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
